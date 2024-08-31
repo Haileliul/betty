@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.common-background{
+    background-color: #3C3633;
+}
+.points{
+    color: #3C3633;
+}
+.points:hover{
+    color: #72503f;
+}
+.content p{
+    font-size: 16px;
+}
+.titles{
+    color: #72503f;
+}
+.first-item {
+    border-color: #3C3633;
+    color: #3C3633;
+  }

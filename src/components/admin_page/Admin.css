@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.general-stat{
+    background-color: #3C3633;
+    color: white;
+}
+.add-member-button{
+    background-color: #3C3633;
+    color: white;
+}
+
+.side-bar{
+    background-color: #3C3633;
+    color: white;
+}
+.confirm:hover{
+    background-color: white;
+    color: #3C3633;
+}
+.page-indicator{
+    background-color: #3C3633;
+}
